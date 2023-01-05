@@ -1,3 +1,5 @@
-# Assignment
-- A student 3rd semester student of Telkom University
-- Can do basic Python, Go, and C++
+# WGTIK_2021
+Base code for personal website exercise for WGTIK 2021
+
+example result:
+[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
